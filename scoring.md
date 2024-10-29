@@ -1,3 +1,5 @@
+# Scoring
+
 Here's a table of the conferences currently tracked by the authors.
 
 It currently contains dummy data to score conferences.
