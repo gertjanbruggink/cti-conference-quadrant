@@ -25,15 +25,9 @@ The CTI Conference Quadrant provides a visual representation of the positioning 
 * Practical Broad Conferences deliver widely applicable, actionable content, catering to hands-on practitioners across multiple CTI areas.
 * Focused Application Conferences provide highly specialized, operational insights for targeted use cases, perfect for deep technical dives in specific CTI domains.
 
-## Interactive CTI Conference Quadrant Features
-
-Our interactive CTI Conference Quadrant allows you to personalize your view according to your career goals, needs, and interests. You can adjust the criteria weighting to create a customized CTI Conference Quadrant that highlights the events most aligned with your professional development. Save and share these customized quadrants within your team for more targeted planning and decision-making.
-
-Additionally, we integrate expert insights and user-contributed reviews to give you a holistic view of each conference’s strengths and limitations. The User Review tab lets you explore what other CTI professionals have to say about their conference experiences, providing valuable peer perspectives to inform your choices.
-
 ## Additional Perspectives
 
-Our CTI Conference Quadrant offers tailored perspectives based on key industry sectors, geographic regions, and attendee roles, enabling you to view each conference through a relevant lens. These perspectives add high-impact commentary on the market and notable events, giving you a customized view that aligns with the criteria most important to you.
+Our CTI Conference Quadrant offers tailored perspectives enabling you to view each conference through a relevant lens. These perspectives add high-impact commentary on the market and notable events, giving you a customized view that aligns with the criteria most important to you.
 
 The CTI Conference Quadrant helps you:
 
@@ -41,4 +35,8 @@ The CTI Conference Quadrant helps you:
 * See how conferences are positioned in terms of their focus and accessibility, as well as the specific strategies they use to meet attendee needs.
 * Compare each conference’s strengths and challenges with your specific learning and growth objectives.
 
-Explore the CTI Conference Quadrant to find the events that will drive your professional journey in cyber threat intelligence.
+Explore the CTI Conference Quadrant to find the events that drive your professional journey in cyber threat intelligence.
+
+## About the authors
+
+This conference chart is curated by John Doyle & Gert-Jan Bruggink.
