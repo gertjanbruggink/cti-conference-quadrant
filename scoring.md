@@ -1,4 +1,6 @@
-Here's a table of the conferences listed in **IMG_5545** with dummy data scores for **Generic to Niche** (X-axis) and **Theoretical to Operational** (Y-axis) to illustrate an example setup. After scoring, I’ll provide an example map based on these dummy scores.
+Here's a table of the conferences currently tracked by the authors.
+
+It currently contains dummy data to score conferences.
 
 ### Step 1: Conference List with Dummy Scores
 
@@ -55,3 +57,20 @@ Here is an example visualization of the **CTI Conference Quadrant** based on the
 - **Top-Right (Niche & Operational)**: Conferences such as **CyberwarCon**, **LabsCon**, and **AttackCon** provide highly specialized, hands-on training and insights within specific CTI subfields.
 - **Bottom-Left (Generic & Theoretical)**: Conferences like **FIRST CTI** and **EU ENISA CTI** cover general, high-level concepts, ideal for newcomers or those seeking a broad overview.
 - **Bottom-Right (Niche & Theoretical)**: Events like **Virus Bulletin** and **CyberThreatUK** focus on specific topics with a theoretical angle, geared towards thought leaders and researchers.
+
+### Sources
+
+| Conference               | Organizer(s) | Info |
+|--------------------------|------------------------|----------------------------------|
+| **FIRST CTI**            | 2                      | URL                                |
+| **SANS CTI**             | 3                      | URL                                |
+| **EU ENISA CTI**         | 2                      | URL                                |
+| **TI x**                 | 4                      | URL                                |
+| **CyberwarCon**          | 5                      | URL                                |
+| **SleuthCon**            | 3                      | URL                                |
+| **LabsCon**              | 5                      | URL                                |
+| **PivotCon**             | 3                      | URL                                |
+| **RootCon**              | 4                      | URL                                |
+| **Virus Bulletin**       | 5                      | URL                                |
+| **AttackCon**            | 4                      | URL                                |
+| **CyberThreatUK**        | 3                      | URL                                |
