@@ -4,6 +4,12 @@ Which are the key players in the world of cyber threat intelligence conferences?
 
 By applying a graphical treatment and a consistent set of evaluation criteria, our CTI Conference Quadrant helps you quickly understand how well different conferences deliver practical insights and hands-on applications, as well as how accessible they are in terms of cost and openness to attendees.
 
+Here's the 2025 quadrant:
+
+Timestamp: 29-10-2024
+
+<IMAGE>
+
 ## How do I use the CTI Conference Quadrant?
 
 Use the CTI Conference Quadrant as your starting point to identify the conferences that best align with your goals in cyber threat intelligence.
