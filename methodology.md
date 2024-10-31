@@ -8,9 +8,9 @@ This methodology outlines the steps to create our CTI Conference Quadrant to vis
 
 Establish the characteristics of each axis to ensure consistency in evaluations.
 
-- **X-Axis (Generic to Niche)**:
-  - **Generic**: Broadly covers CTI topics, appealing to a wide audience with general knowledge.
+- **X-Axis (Niche to Generic)**:
   - **Niche**: Focuses on specific CTI subfields, technologies, or industry sectors, offering specialized insights.
+  - **Generic**: Broadly covers CTI topics, appealing to a wide audience with general knowledge.
 
 - **Y-Axis (Theoretical to Operational Focus)**:
   - **Theoretical**: High-level concepts, research findings, or frameworks; less immediately actionable.
@@ -35,16 +35,12 @@ For each conference, research the following:
 
 Use a scoring system to quantify each conference's placement on the quadrant. We use a scale of 1-5 scale:
 
-- **X-Axis (Generic to Niche)**:
-  - **1** = Very Generic
-  - **3** = Moderate Specificity
-  - **5** = Highly Niche
+Scoring system: 
 
-- **Y-Axis (Theoretical to Operational)**:
-  - **1** = Highly Theoretical
-  - **3** = Balanced
-  - **5** = Highly Operational
+* X-Axis (Niche to Generic): 1 = Highly Niche 3 = Moderate Specificity 5 = Very Generic
 
+* Y-Axis (Theoretical to Operational): 1 = Highly Theoretical 3 = Balanced 5 = Highly Operational
+* 
 ---
 
 ### Step 4: Plot the Conferences on the Quadrant
@@ -52,7 +48,7 @@ Use a scoring system to quantify each conference's placement on the quadrant. We
 Using the scores from Step 3, we map each conference on a two-dimensional grid.
 
 1. **Create the Quadrant**:
-   - Label the X-axis from "Generic" (left) to "Niche" (right).
+   - Label the X-axis from "Niche" (left) to "Generic" (right).
    - Label the Y-axis from "Theoretical" (bottom) to "Operational" (top).
 
 2. **Map the Conferences**:
@@ -64,11 +60,11 @@ Using the scores from Step 3, we map each conference on a two-dimensional grid.
 
 We label each quadrant to clarify the types of conferences in each section:
 
-- **Top-Left (Generic & Operational)**: Conferences covering broadly applicable, practical content, ideal for foundational skills.
-- **Top-Right (Niche & Operational)**: Highly specialized conferences offering hands-on, niche insights.
-- **Bottom-Left (Generic & Theoretical)**: Broad, high-level conferences focusing on general trends, suitable for newcomers.
-- **Bottom-Right (Niche & Theoretical)**: Specialized conferences with a focus on research and niche topics, geared toward thought leaders.
-
+- **Top-Left (Niche & Operational)**: Highly specialized conferences offering hands-on, niche insights.
+- **Top-Right (Generic & Operational)**: Conferences covering broadly applicable, practical content, ideal for foundational skills.
+- **Bottom-Left (Niche & Theoretical)**: Specialized conferences with a focus on research and niche topics.
+- **Bottom-Right (Generic & Theoretical)**: Broad, high-level conferences focusing on general trends, suitable for newcomers.
+  
 ---
 
 ### Step 6: Add Context with Annotations
@@ -79,16 +75,6 @@ To enhance the quadrant’s value, we'll add annotations for each conference:
 - **Target Audience**: Specify if the primary audience is managers, red teamers, or analysts.
 - **Noteworthy Speakers or Topics**: Mention high-profile speakers, unique topics, or specialized workshops.
 - **Accessibility/Cost**: Note if the conference is generally accessible or exclusive/high-cost.
-
----
-
-### Example Mapping
-
-| Conference                | Generic to Niche Score | Theoretical to Operational Score | Placement                          |
-|---------------------------|------------------------|---------------------------------|------------------------------------|
-| **Global CTI Forum**      | 2                      | 3                               | Bottom-Left (Generic & Theoretical)|
-| **Malware Analysis Con**  | 5                      | 5                               | Top-Right (Niche & Operational)    |
-| **Cyber Threat Intel Trends** | 2                  | 4                               | Top-Left (Generic & Operational)   |
 
 ---
 
