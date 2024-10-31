@@ -2,65 +2,56 @@
 
 Here's a table of the conferences currently tracked by the authors.
 
-It currently contains dummy data to score conferences.
 
-### Step 1: Conference List with Dummy Scores
+### Step 1: Conference List with Scores
 
-| Conference               | Generic to Niche Score | Theoretical to Operational Score |
+Scoring system:
+    X-Axis (Niche to Generic):
+        1 = Highly Niche
+        3 = Moderate Specificity
+        5 = Very Generic
+
+   Y-Axis (Theoretical to Operational):
+        1 = Highly Theoretical
+        3 = Balanced
+        5 = Highly Operational
+
+Scoring (dated November 2024): 
+
+| Conference               | Niche to Generic Score | Theoretical to Operational Score |
 |--------------------------|------------------------|----------------------------------|
-| **FIRST CTI**            | 2                      | 3                                |
-| **SANS CTI**             | 3                      | 5                                |
-| **EU ENISA CTI**         | 2                      | 2                                |
-| **TI x**                 | 4                      | 4                                |
-| **CyberwarCon**          | 5                      | 5                                |
-| **SleuthCon**            | 3                      | 4                                |
-| **LabsCon**              | 5                      | 4                                |
-| **PivotCon**             | 3                      | 3                                |
+| **FIRST CTI**            | 4                      | 5                                |
+| **SANS CTI**             | 5                      | 5                                |
+| **EU ENISA CTI**         | 5                      | 3                                |
+| **TIX**                  | 2                      | 3                                |
+| **CyberwarCon**          | 1                      | 5                                |
+| **SleuthCon**            | 1                      | 4                                |
+| **LabsCon**              | 2                      | 4                                |
+| **PivotCon**             | 1                      | 3                                |
 | **RootCon**              | 4                      | 4                                |
-| **Virus Bulletin**       | 5                      | 3                                |
-| **AttackCon**            | 4                      | 5                                |
-| **CyberThreatUK**        | 3                      | 2                                |
+| **Virus Bulletin**       | 3                      | 3                                |
+| **AttackCon**            | 1                      | 4                                |
+| **CyberThreatUK**        | 4                      | 3                                |
 
-### Step 2: Example Quadrant Map
-
-Using the scores provided, here’s an example of where these conferences might fall on the quadrant. 
-
-1. **Top-Left (Generic & Operational)**:
-   - **SANS CTI**: (Generic: 3, Operational: 5)
-   - **SleuthCon**: (Generic: 3, Operational: 4)
-
-2. **Top-Right (Niche & Operational)**:
-   - **CyberwarCon**: (Niche: 5, Operational: 5)
-   - **LabsCon**: (Niche: 5, Operational: 4)
-   - **AttackCon**: (Niche: 4, Operational: 5)
-   - **TI x**: (Niche: 4, Operational: 4)
-   - **RootCon**: (Niche: 4, Operational: 4)
-
-3. **Bottom-Left (Generic & Theoretical)**:
-   - **FIRST CTI**: (Generic: 2, Theoretical: 3)
-   - **EU ENISA CTI**: (Generic: 2, Theoretical: 2)
-
-4. **Bottom-Right (Niche & Theoretical)**:
-   - **Virus Bulletin**: (Niche: 5, Theoretical: 3)
-   - **CyberThreatUK**: (Niche: 3, Theoretical: 2)
-   - **PivotCon**: (Niche: 3, Theoretical: 3)
-
-### Step 3: Visualization of the CTI Conference Quadrant
+### Step 2: Visualization of the CTI Conference Quadrant
 
 Below is a conceptual visualization based on the scores. This representation positions the conferences according to their focus and applicability level, providing insight into which events are best suited for broad or specialized content, as well as operational or theoretical focus.
 
-![25-cti-conference-quadrant](https://github.com/user-attachments/assets/00c660d3-5238-4f37-9f95-25c1806287c2)
+![QCTIC](https://github.com/user-attachments/assets/93b8e283-0b2d-45e6-a509-34bbda5231f0)
 
+Here is an visualization of the **2025 Quadrant for Cyber Threat Intelligence Conferences** based on the scoring. 
 
-Here is an example visualization of the **CTI Conference Quadrant** based on the **Generic to Niche** and **Theoretical to Operational** scoring. 
+### Step 3: Annotations by the authors
 
-### Annotations by the authors
-- **Top-Left (Generic & Operational)**: Conferences like **SANS CTI** and **SleuthCon** offer practical content with broad applications, suitable for foundational skills.
-- **Top-Right (Niche & Operational)**: Conferences such as **CyberwarCon**, **LabsCon**, and **AttackCon** provide highly specialized, hands-on training and insights within specific CTI subfields.
-- **Bottom-Left (Generic & Theoretical)**: Conferences like **FIRST CTI** and **EU ENISA CTI** cover general, high-level concepts, ideal for newcomers or those seeking a broad overview.
-- **Bottom-Right (Niche & Theoretical)**: Events like **Virus Bulletin** and **CyberThreatUK** focus on specific topics with a theoretical angle, geared towards thought leaders and researchers.
+Highly Niche & Operational Conferences:Conferences like CyberwarCon, AttackCon, and SleuthCon are positioned in the niche and highly operational quadrant, indicating a strong focus on hands-on, specialized content for expert audiences.
 
-### Sources
+Highly Generic & Operational Conferences:SANS CTI and FIRST CTI occupy the most generic and operational space, suggesting broad, practical applicability suitable for a wide range of practitioners.
+
+Balanced and Mid-Specificity Conferences:Conferences such as EU ENISA CTI and Virus Bulletin appear in the middle quadrants, showing a balance in niche vs. generic and theoretical vs. operational content, appealing to diverse audiences.
+
+Generic & Balanced Conferences:CyberThreatUK and RootCon deliver content that’s both generic and balanced, potentially catering to attendees interested in a mix of strategic and operational topics applicable across different contexts.
+
+### Step 4: Check sources
 
 | Conference               | Organizer(s) | Info |
 |--------------------------|------------------------|----------------------------------|
@@ -71,8 +62,8 @@ Here is an example visualization of the **CTI Conference Quadrant** based on the
 | **CyberwarCon**          | 5                      | URL                                |
 | **SleuthCon**            | 3                      | URL                                |
 | **LabsCon**              | 5                      | URL                                |
-| **PivotCon**             | 3                      | URL                                |
-| **RootCon**              | 4                      | URL                                |
+| **PivotCon**             | 3                      | [URL](https://pivotcon.org/)       |
+| **RootCon**              | 4                      | [URL](https://rootcon.org/)        |
 | **Virus Bulletin**       | 5                      | URL                                |
 | **AttackCon**            | 4                      | URL                                |
 | **CyberThreatUK**        | 3                      | URL                                |
