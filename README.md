@@ -8,7 +8,8 @@ Here's the 2025 quadrant:
 
 Timestamp: 29-10-2024
 
-<IMAGE>
+![Quadrant for Cyber Threat Intelligence Conferences](https://github.com/user-attachments/assets/2766990f-1196-4aea-80fb-23c7679f8dcb)
+
 
 ## How do I use the CTI Conference Quadrant?
 
